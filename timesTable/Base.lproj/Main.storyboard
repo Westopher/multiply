@@ -68,7 +68,6 @@
                     </view>
                     <connections>
                         <outlet property="slider" destination="qe1-iK-Y6G" id="8T4-Ey-jqx"/>
-                        <outlet property="sliderValueLabel" destination="gBA-1X-vhg" id="IcC-cs-gF5"/>
                         <outlet property="table" destination="kPO-4M-vFR" id="a8d-tc-aFX"/>
                     </connections>
                 </viewController>
