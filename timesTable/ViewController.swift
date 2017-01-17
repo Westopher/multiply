@@ -11,7 +11,13 @@ import UIKit
 class ViewController: UIViewController {
 
     
+    @IBOutlet var slider: UISlider!
+    
+    @IBOutlet var table: UITableView!
+    
 
+    @IBAction func sliderChanged(_ sender: Any) {
+    }
     
     
     override func viewDidLoad() {
